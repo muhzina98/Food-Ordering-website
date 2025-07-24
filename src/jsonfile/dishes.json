@@ -1,0 +1,393 @@
+
+  [
+  {
+    "id": 1,
+    "name": "Chicken Biryani",
+    "description": "Aromatic basmati rice cooked with tender chicken and spices.",
+    "price": 220,
+    "rating": 4.7,
+    "image": "https://www.pavaniskitchen.com/wp-content/uploads/2021/02/chbiryani.jpg",
+    "shop": "Hyderabadi Zaika"
+  },
+  {
+    "id": 2,
+    "name": "Paneer Butter Masala",
+    "description": "Cottage cheese in a rich, creamy tomato gravy.",
+    "price": 180,
+    "rating": 4.5,
+    "image": "https://www.foodiaq.com/wp-content/uploads/2024/11/Paneer-Butter-Masala.jpg",
+    "shop": "Punjabi Treats"
+  },
+  {
+    "id": 3,
+    "name": "Veg Hakka Noodles",
+    "description": "Stir-fried noodles with fresh vegetables and sauces.",
+    "price": 140,
+    "rating": 4.3,
+    "image": "https://chaitrascreations.com/wp-content/uploads/2020/05/DSC_9226_edited-scaled.jpg",
+    "shop": "Wok Express"
+  },
+  {
+    "id": 4,
+    "name": "Margherita Pizza",
+    "description": "Classic cheese pizza with tomato sauce and basil.",
+    "price": 200,
+    "rating": 4.2,
+    "image": "https://img.taste.com.au/DhThzPm9/taste/2016/11/eat-pray-love-39581-3.jpeg",
+    "shop": "Italiano Pizza"
+  },
+  {
+    "id": 5,
+    "name": "Masala Dosa",
+    "description": "Crispy dosa stuffed with spicy potato filling.",
+    "price": 100,
+    "rating": 4.6,
+    "image": "https://www.mydelicious-recipes.com/home/images/120_1080_1080/mydelicious-recipes-masala-dosa-with-batter",
+    "shop": "South Spice"
+  },
+  {
+    "id": 6,
+    "name": "Cheese Burger",
+    "description": "Juicy grilled beef patty with cheese in a soft bun.",
+    "price": 160,
+    "rating": 4.4,
+    "image": "https://www.sargento.com/assets/Uploads/Recipe/Image/cheddarbaconcheeseburger__FocusFillWyIwLjAwIiwiMC4wMCIsODAwLDQ3OF0_CompressedW10.jpg",
+    "shop": "Burger Kingz"
+  },
+  {
+    "id": 7,
+    "name": "Tandoori Chicken",
+    "description": "Charcoal-grilled chicken marinated in yogurt and spices.",
+    "price": 240,
+    "rating": 4.8,
+    "image": "https://i.ytimg.com/vi/XVxGnN_7Htc/maxresdefault.jpg",
+    "shop": "Mughal Dine"
+  },
+  {
+    "id": 8,
+    "name": "Veg Thali",
+    "description": "Traditional Indian meal with roti, rice, curry, and dessert.",
+    "price": 180,
+    "rating": 4.5,
+    "image": "https://trainmeals.com/wp-content/uploads/2024/12/1693843320605-3e0ba0540b1cc809e84bbd9b762fd686-500x500-1.webp",
+    "shop": "Ghar Ka Khana"
+  },
+  {
+    "id": 9,
+    "name": "Fish Curry",
+    "description": "Spicy fish curry with coconut and mustard flavors.",
+    "price": 210,
+    "rating": 4.3,
+    "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/article/146843-jnxhqckdaa-1598964061.jpg",
+    "shop": "Bengali Bistro"
+  },
+  {
+    "id": 10,
+    "name": "Chicken Shawarma",
+    "description": "Middle Eastern wrap with juicy chicken and garlic sauce.",
+    "price": 130,
+    "rating": 4.6,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSTgicv8RYytNdSaqW-ColdVUKXog36QPopg&s",
+    "shop": "Arabian Nights"
+  },
+  {
+    "id": 11,
+    "name": "Chole Bhature",
+    "description": "Spicy chickpeas served with deep-fried bread.",
+    "price": 110,
+    "rating": 4.4,
+    "image": "https://cdn.zeptonow.com/production///tr:w-600,ar-100-100,pr-true,f-auto,q-80/web/recipes/chola-bhatura.png",
+    "shop": "Delhi Darbar"
+  },
+  {
+    "id": 12,
+    "name": "Spring Rolls",
+    "description": "Crispy fried rolls stuffed with vegetables.",
+    "price": 90,
+    "rating": 4.1,
+    "image": "https://redhousespice.com/wp-content/uploads/2021/12/whole-spring-rolls-and-halved-ones-scaled.jpg",
+    "shop": "China Point"
+  },
+  {
+    "id": 13,
+    "name": "Butter Naan",
+    "description": "Soft Indian bread brushed with butter.",
+    "price": 40,
+    "rating": 4.2,
+    "image": "https://orders.popskitchen.in/storage/2024/09/image-69.png",
+    "shop": "Punjabi Treats"
+  },
+  {
+    "id": 14,
+    "name": "Chicken Tikka",
+    "description": "Boneless chicken marinated and grilled to perfection.",
+    "price": 200,
+    "rating": 4.6,
+    "image": "https://punjabidhabarestaurant.com/wp-content/uploads/2024/12/chicken-tikka-skewers-recipe.jpg",
+    "shop": "Grill Zone"
+  },
+  {
+    "id": 15,
+    "name": "Fried Rice",
+    "description": "Rice stir-fried with vegetables and soy sauce.",
+    "price": 130,
+    "rating": 4.0,
+    "image": "https://www.sharmispassions.com/wp-content/uploads/2013/04/EggFriedRice4-500x500.jpg",
+    "shop": "Wok Express"
+  },
+  {
+    "id": 16,
+    "name": "Vada Pav",
+    "description": "Mumbai street food with potato fritter in a bun.",
+    "price": 60,
+    "rating": 4.3,
+    "image": "https://i.ytimg.com/vi/8HQFc64OwUk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDyuOOEUqDVKmkdQCdapUk-QhN3gA",
+    "shop": "Mumbai Bites"
+  },
+  {
+    "id": 17,
+    "name": "Egg Curry",
+    "description": "Boiled eggs cooked in a rich spicy gravy.",
+    "price": 140,
+    "rating": 4.4,
+    "image": "https://www.spicebangla.com/wp-content/uploads/2024/08/Egg-Masala-Curry.webp",
+    "shop": "Desi Zaika"
+  },
+  {
+    "id": 18,
+    "name": "Samosa",
+    "description": "Crispy pastry filled with spicy potatoes and peas.",
+    "price": 30,
+    "rating": 4.2,
+    "image": "https://c.ndtvimg.com/2022-09/lpcnb0g8_samosa_625x300_29_September_22.jpg",
+    "shop": "Street Delights"
+  },
+  {
+    "id": 19,
+    "name": "Manchurian",
+    "description": "Crispy fried veg balls in spicy Chinese sauce.",
+    "price": 150,
+    "rating": 4.1,
+    "image": "https://blessmyfoodbypayal.com/wp-content/uploads/2023/01/1674053815107-500x500.jpg",
+    "shop": "Dragon Bowl"
+  },
+  {
+    "id": 20,
+    "name": "Rogan Josh",
+    "description": "Slow-cooked lamb curry in Kashmiri style.",
+    "price": 250,
+    "rating": 4.7,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2L-Oqeab45ANWzlzdYe3sLKclugMJni6f0Cm89dJihe58A5BWEq09STIfIi53pBGdyck&usqp=CAU",
+    "shop": "Kashmir Zaika"
+  },
+  {
+    "id": 21,
+    "name": "Pav Bhaji",
+    "description": "Spiced mashed vegetables served with buttered pav.",
+    "price": 100,
+    "rating": 4.5,
+    "image": "https://i.ytimg.com/vi/FP_S0yW9F3o/hqdefault.jpg",
+    "shop": "Bombay Tadka"
+  },
+  {
+    "id": 22,
+    "name": "Idli Sambar",
+    "description": "Steamed rice cakes served with lentil curry.",
+    "price": 90,
+    "rating": 4.4,
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/idli-sambar-tiffin-sambar-500x500.jpg",
+    "shop": "South Corner"
+  },
+  {
+    "id": 23,
+    "name": "Aloo Paratha",
+    "description": "Flatbread stuffed with spicy mashed potatoes.",
+    "price": 80,
+    "rating": 4.3,
+    "image": "https://i0.wp.com/www.shanazrafiq.com/wp-content/uploads/2016/03/2-DSC_0179.jpg?fit=1600%2C1064&ssl=1",
+    "shop": "Desi Swag"
+  },
+  {
+    "id": 24,
+    "name": "Cold Coffee",
+    "description": "Chilled blend of coffee, milk, and sugar.",
+    "price": 90,
+    "rating": 4.2,
+    "image": "https://tvanamm.com/wp-content/uploads/2024/01/Cold-Coffee.jpg",
+    "shop": "Cafe Express"
+  },
+  {
+    "id": 25,
+    "name": "Gulab Jamun",
+    "description": "Soft round sweets soaked in sugar syrup.",
+    "price": 70,
+    "rating": 4.6,
+    "image": "https://aartimadan.com/wp-content/uploads/2020/11/milk-powder-gulab-jamuns.jpg",
+    "shop": "Sweet Tooth"
+  },
+  {
+    "id": 26,
+    "name": "Chicken Burger",
+    "description": "Crispy chicken patty with lettuce and mayo.",
+    "price": 150,
+    "rating": 4.5,
+    "image": "https://source.unsplash.com/400x300/?burgerhttps://www.indianhealthyrecipes.com/wp-content/uploads/2024/06/chicken-burger-recipe.jpg",
+    "shop": "Burger Spot"
+  },
+  {
+    "id": 27,
+    "name": "Veggie Pizza",
+    "description": "Loaded with capsicum, onion, tomato, and cheese.",
+    "price": 220,
+    "rating": 4.3,
+    "image": "https://www.superhealthykids.com/wp-content/uploads/2021/10/best-veggie-pizza-featured-image-square-2.jpg",
+    "shop": "Pizza Villa"
+  },
+  {
+    "id": 28,
+    "name": "onion Dosa",
+    "description": "South Indian dosa stuffed with onion filling.",
+    "price": 100,
+    "rating": 4.7,
+    "image": "https://selfiefamily.com/wp-content/uploads/2021/03/Onion-Dosa.jpg",
+    "shop": "South Spice"
+  },
+
+ 
+  {
+    "id": 29,
+    "name": "Almonds (Salted)",
+    "description": "High-protein almonds, lightly salted and roasted.",
+    "price": 160,
+    "rating": 4.5,
+    "image": "https://m.media-amazon.com/images/I/410vFmgo+vS._UF1000,1000_QL80_.jpg",
+    "shop": "Healthy Crunch"
+  },
+  {
+    "id": 30,
+    "name": "Pista (Pistachios)",
+    "description": "Crunchy pistachios packed with flavor.",
+    "price": 180,
+    "rating": 4.4,
+    "image": "https://m.media-amazon.com/images/I/51hZeZtW8tL._UF1000,1000_QL80_.jpg",
+    "shop": "Nut World"
+  },
+  {
+    "id": 31,
+    "name": "Gulab Jamun (Box)",
+    "description": "Soft khoya balls soaked in rose-flavored syrup.",
+    "price": 120,
+    "rating": 4.7,
+    "image": "https://mir-s3-cdn-cf.behance.net/projects/404/8cb27c210589867.Y3JvcCwxNTAwLDExNzMsMCwxNjM.png",
+    "shop": "Sweet House"
+  },
+  {
+    "id": 32,
+    "name": "Rasgulla",
+    "description": "Spongy milk-based sweet soaked in light syrup.",
+    "price": 110,
+    "rating": 4.5,
+    "image": "https://www.murarisweets.com/cdn/shop/files/MiniRasgulla.png?v=1709725924",
+    "shop": "Bengali Sweets"
+  },
+  {
+    "id": 33,
+    "name": "Kaju Katli",
+    "description": "Diamond-shaped cashew fudge with silver leaf.",
+    "price": 190,
+    "rating": 4.8,
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/3/JS/WJ/GG/26405163/kaju-katli-500x500.jpg",
+    "shop": "Mithai Ghar"
+  },
+  {
+    "id": 34,
+    "name": "Lassi (Sweet)",
+    "description": "Chilled yogurt drink sweetened with sugar.",
+    "price": 60,
+    "rating": 4.4,
+    "image": "https://www.sharmispassions.com/wp-content/uploads/2023/08/sweet-lassi5.jpg",
+    "shop": "Punjabi Coolers"
+  },
+  {
+    "id": 35,
+    "name": "Masala Chai",
+    "description": "Spiced Indian tea brewed with milk.",
+    "price": 40,
+    "rating": 4.6,
+    "image": "https://www.seema.com/wp-content/uploads/2022/07/Masala-Chai.jpg",
+    "shop": "Chai Junction"
+  },
+  {
+    "id": 36,
+    "name": "Cold Coffee with Ice Cream",
+    "description": "Icy cold blend of coffee topped with vanilla scoop.",
+    "price": 110,
+    "rating": 4.7,
+    "image": "https://foodandjourneys.net/wp-content/uploads/2023/05/Eiskaffee-FTR1.jpg",
+    "shop": "Café Blend"
+  },
+  {
+    "id": 37,
+    "name": "Mango Juice",
+    "description": "Fresh mango pulp blended with crushed ice.",
+    "price": 70,
+    "rating": 4.5,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEzDjxih-niFZsl-roRRFDcm7OT5ufa3_mIA&s",
+    "shop": "Juice Center"
+  },
+  {
+    "id": 38,
+    "name": "Chocolate Brownie",
+    "description": "Fudgy chocolate brownie served warm.",
+    "price": 90,
+    "rating": 4.6,
+    "image": "https://static01.nyt.com/images/2025/02/13/multimedia/vv-triple-chocolate-brownies-bqvt/vv-triple-chocolate-brownies-bqvt-mediumSquareAt3X.jpg",
+    "shop": "Dessert Dash"
+  },
+  {
+    "id": 39,
+    "name": "Vanilla Ice Cream",
+    "description": "Classic vanilla ice cream made with real cream.",
+    "price": 80,
+    "rating": 4.5,
+    "image": "https://vaya.in/recipes/wp-content/uploads/2018/12/Vanilla-Ice-Cream.jpg",
+    "shop": "Frozen Fun"
+  },
+  {
+    "id": 40,
+    "name": "Gajar Halwa",
+    "description": "Traditional carrot dessert with dry fruits and ghee.",
+    "price": 110,
+    "rating": 4.7,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlz7ya9Wp-KQS-YNLjleBQjfiOefcfCTAYMXonotu6n1RgEXOUDbQy_Df3CZ9ykd3vQtU&usqp=CAU",
+    "shop": "Sweet Bites"
+  },
+  {
+    "id": 41,
+    "name": "Falooda",
+    "description": "Rose milk dessert with vermicelli, basil seeds, and ice cream.",
+    "price": 120,
+    "rating": 4.8,
+    "image": "https://static.india.com/wp-content/uploads/2024/09/FALOODA-1.jpg?impolicy=Medium_Widthonly&w=350&h=263",
+    "shop": "Falooda Nation"
+  },
+  {
+    "id": 42,
+    "name": "Jalebi",
+    "description": "Crispy spiral-shaped sweet soaked in syrup.",
+    "price": 80,
+    "rating": 4.6,
+    "image": "https://i.ytimg.com/vi/_wuJYFCN9P8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBnl6z-8AnLxW6ecBhIelEkxbfGaw",
+    "shop": "Shree Sweets"
+  },
+   {
+    "id": 43,
+    "name": "Cashew Nuts (Roasted)",
+    "description": "Crispy roasted cashews with a pinch of salt.",
+    "price": 150,
+    "rating": 4.6,
+    "image": "https://jeanieandluluskitchen.com/wp-content/uploads/2018/05/DSC_0276.jpg",
+    "shop": "Nutra Hub"
+  }
+]
+
