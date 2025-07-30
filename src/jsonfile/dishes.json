@@ -7,7 +7,8 @@
     "price": 220,
     "rating": 4.7,
     "image": "https://www.pavaniskitchen.com/wp-content/uploads/2021/02/chbiryani.jpg",
-    "shop": "Hyderabadi Zaika"
+    "shop": "Hyderabadi Zaika",
+    "category": "Main-Course"
   },
   {
     "id": 2,
@@ -16,8 +17,10 @@
     "price": 180,
     "rating": 4.5,
     "image": "https://www.foodiaq.com/wp-content/uploads/2024/11/Paneer-Butter-Masala.jpg",
-    "shop": "Punjabi Treats"
+    "shop": "Punjabi Treats",
+     "category": "Main-Course"
   },
+  
   {
     "id": 3,
     "name": "Veg Hakka Noodles",
@@ -25,8 +28,10 @@
     "price": 140,
     "rating": 4.3,
     "image": "https://chaitrascreations.com/wp-content/uploads/2020/05/DSC_9226_edited-scaled.jpg",
-    "shop": "Wok Express"
+    "shop": "Wok Express",
+     "category": "Chinees"
   },
+  
   {
     "id": 4,
     "name": "Margherita Pizza",
@@ -34,7 +39,8 @@
     "price": 200,
     "rating": 4.2,
     "image": "https://img.taste.com.au/DhThzPm9/taste/2016/11/eat-pray-love-39581-3.jpeg",
-    "shop": "Italiano Pizza"
+    "shop": "Italiano Pizza",
+     "category": "Chinees"
   },
   {
     "id": 5,
@@ -43,7 +49,9 @@
     "price": 100,
     "rating": 4.6,
     "image": "https://www.mydelicious-recipes.com/home/images/120_1080_1080/mydelicious-recipes-masala-dosa-with-batter",
-    "shop": "South Spice"
+    "shop": "South Spice",
+     "category": "south-Indian"
+
   },
   {
     "id": 6,
@@ -52,7 +60,9 @@
     "price": 160,
     "rating": 4.4,
     "image": "https://www.sargento.com/assets/Uploads/Recipe/Image/cheddarbaconcheeseburger__FocusFillWyIwLjAwIiwiMC4wMCIsODAwLDQ3OF0_CompressedW10.jpg",
-    "shop": "Burger Kingz"
+    "shop": "Burger Kingz",
+     "category": "Snacks"
+
   },
   {
     "id": 7,
@@ -61,7 +71,8 @@
     "price": 240,
     "rating": 4.8,
     "image": "https://i.ytimg.com/vi/XVxGnN_7Htc/maxresdefault.jpg",
-    "shop": "Mughal Dine"
+    "shop": "Mughal Dine",
+     "category": "Main-Course"
   },
   {
     "id": 8,
@@ -70,7 +81,8 @@
     "price": 180,
     "rating": 4.5,
     "image": "https://trainmeals.com/wp-content/uploads/2024/12/1693843320605-3e0ba0540b1cc809e84bbd9b762fd686-500x500-1.webp",
-    "shop": "Ghar Ka Khana"
+    "shop": "Ghar Ka Khana",
+     "category": "south-Indian"
   },
   {
     "id": 9,
@@ -79,7 +91,8 @@
     "price": 210,
     "rating": 4.3,
     "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/article/146843-jnxhqckdaa-1598964061.jpg",
-    "shop": "Bengali Bistro"
+    "shop": "Bengali Bistro",
+     "category": "Main-Course"
   },
   {
     "id": 10,
@@ -88,7 +101,8 @@
     "price": 130,
     "rating": 4.6,
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSTgicv8RYytNdSaqW-ColdVUKXog36QPopg&s",
-    "shop": "Arabian Nights"
+    "shop": "Arabian Nights",
+     "category": "Snacks"
   },
   {
     "id": 11,
@@ -97,7 +111,8 @@
     "price": 110,
     "rating": 4.4,
     "image": "https://cdn.zeptonow.com/production///tr:w-600,ar-100-100,pr-true,f-auto,q-80/web/recipes/chola-bhatura.png",
-    "shop": "Delhi Darbar"
+    "shop": "Delhi Darbar",
+     "category": "Main-Course"
   },
   {
     "id": 12,
@@ -106,7 +121,8 @@
     "price": 90,
     "rating": 4.1,
     "image": "https://redhousespice.com/wp-content/uploads/2021/12/whole-spring-rolls-and-halved-ones-scaled.jpg",
-    "shop": "China Point"
+    "shop": "China Point",
+     "category": "Snacks"
   },
   {
     "id": 13,
@@ -115,7 +131,8 @@
     "price": 40,
     "rating": 4.2,
     "image": "https://orders.popskitchen.in/storage/2024/09/image-69.png",
-    "shop": "Punjabi Treats"
+    "shop": "Punjabi Treats",
+     "category": "Main-Course"
   },
   {
     "id": 14,
@@ -124,7 +141,8 @@
     "price": 200,
     "rating": 4.6,
     "image": "https://punjabidhabarestaurant.com/wp-content/uploads/2024/12/chicken-tikka-skewers-recipe.jpg",
-    "shop": "Grill Zone"
+    "shop": "Grill Zone",
+     "category": "Main-Course"
   },
   {
     "id": 15,
@@ -133,7 +151,8 @@
     "price": 130,
     "rating": 4.0,
     "image": "https://www.sharmispassions.com/wp-content/uploads/2013/04/EggFriedRice4-500x500.jpg",
-    "shop": "Wok Express"
+    "shop": "Wok Express",
+     "category": "Main-Course"
   },
   {
     "id": 16,
@@ -142,7 +161,8 @@
     "price": 60,
     "rating": 4.3,
     "image": "https://i.ytimg.com/vi/8HQFc64OwUk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDyuOOEUqDVKmkdQCdapUk-QhN3gA",
-    "shop": "Mumbai Bites"
+    "shop": "Mumbai Bites",
+     "category": "Street food"
   },
   {
     "id": 17,
@@ -151,7 +171,8 @@
     "price": 140,
     "rating": 4.4,
     "image": "https://www.spicebangla.com/wp-content/uploads/2024/08/Egg-Masala-Curry.webp",
-    "shop": "Desi Zaika"
+    "shop": "Desi Zaika",
+     "category": "Main-Course"
   },
   {
     "id": 18,
@@ -160,7 +181,8 @@
     "price": 30,
     "rating": 4.2,
     "image": "https://c.ndtvimg.com/2022-09/lpcnb0g8_samosa_625x300_29_September_22.jpg",
-    "shop": "Street Delights"
+    "shop": "Street Delights",
+     "category": "Snacks"
   },
   {
     "id": 19,
@@ -169,7 +191,8 @@
     "price": 150,
     "rating": 4.1,
     "image": "https://blessmyfoodbypayal.com/wp-content/uploads/2023/01/1674053815107-500x500.jpg",
-    "shop": "Dragon Bowl"
+    "shop": "Dragon Bowl",
+     "category": "Main-Course"
   },
   {
     "id": 20,
@@ -178,7 +201,8 @@
     "price": 250,
     "rating": 4.7,
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2L-Oqeab45ANWzlzdYe3sLKclugMJni6f0Cm89dJihe58A5BWEq09STIfIi53pBGdyck&usqp=CAU",
-    "shop": "Kashmir Zaika"
+    "shop": "Kashmir Zaika",
+     "category": "Main-Course"
   },
   {
     "id": 21,
@@ -187,7 +211,8 @@
     "price": 100,
     "rating": 4.5,
     "image": "https://i.ytimg.com/vi/FP_S0yW9F3o/hqdefault.jpg",
-    "shop": "Bombay Tadka"
+    "shop": "Bombay Tadka",
+     "category": "Street food"
   },
   {
     "id": 22,
@@ -196,7 +221,8 @@
     "price": 90,
     "rating": 4.4,
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/idli-sambar-tiffin-sambar-500x500.jpg",
-    "shop": "South Corner"
+    "shop": "South Corner",
+     "category": "south-Indian"
   },
   {
     "id": 23,
@@ -205,7 +231,8 @@
     "price": 80,
     "rating": 4.3,
     "image": "https://i0.wp.com/www.shanazrafiq.com/wp-content/uploads/2016/03/2-DSC_0179.jpg?fit=1600%2C1064&ssl=1",
-    "shop": "Desi Swag"
+    "shop": "Desi Swag",
+     "category": "Main-Course"
   },
   {
     "id": 24,
@@ -214,7 +241,8 @@
     "price": 90,
     "rating": 4.2,
     "image": "https://tvanamm.com/wp-content/uploads/2024/01/Cold-Coffee.jpg",
-    "shop": "Cafe Express"
+    "shop": "Cafe Express",
+     "category": "Drinks"
   },
   {
     "id": 25,
@@ -223,7 +251,8 @@
     "price": 70,
     "rating": 4.6,
     "image": "https://aartimadan.com/wp-content/uploads/2020/11/milk-powder-gulab-jamuns.jpg",
-    "shop": "Sweet Tooth"
+    "shop": "Sweet Tooth",
+     "category": "Desserts"
   },
   {
     "id": 26,
@@ -231,8 +260,9 @@
     "description": "Crispy chicken patty with lettuce and mayo.",
     "price": 150,
     "rating": 4.5,
-    "image": "https://source.unsplash.com/400x300/?burgerhttps://www.indianhealthyrecipes.com/wp-content/uploads/2024/06/chicken-burger-recipe.jpg",
-    "shop": "Burger Spot"
+    "image": "https://c.ndtvimg.com/2023-04/uudj8mko_burger_625x300_28_April_23.jpg",
+    "shop": "Burger Spot",
+     "category": "Snacks"
   },
   {
     "id": 27,
@@ -241,7 +271,8 @@
     "price": 220,
     "rating": 4.3,
     "image": "https://www.superhealthykids.com/wp-content/uploads/2021/10/best-veggie-pizza-featured-image-square-2.jpg",
-    "shop": "Pizza Villa"
+    "shop": "Pizza Villa",
+     "category": "Snacks"
   },
   {
     "id": 28,
@@ -250,7 +281,8 @@
     "price": 100,
     "rating": 4.7,
     "image": "https://selfiefamily.com/wp-content/uploads/2021/03/Onion-Dosa.jpg",
-    "shop": "South Spice"
+    "shop": "South Spice",
+     "category": "Street food"
   },
 
  
@@ -261,7 +293,8 @@
     "price": 160,
     "rating": 4.5,
     "image": "https://m.media-amazon.com/images/I/410vFmgo+vS._UF1000,1000_QL80_.jpg",
-    "shop": "Healthy Crunch"
+    "shop": "Healthy Crunch",
+     "category": "Nuts"
   },
   {
     "id": 30,
@@ -270,7 +303,8 @@
     "price": 180,
     "rating": 4.4,
     "image": "https://m.media-amazon.com/images/I/51hZeZtW8tL._UF1000,1000_QL80_.jpg",
-    "shop": "Nut World"
+    "shop": "Nut World",
+     "category": "Nuts"
   },
   {
     "id": 31,
@@ -279,7 +313,8 @@
     "price": 120,
     "rating": 4.7,
     "image": "https://mir-s3-cdn-cf.behance.net/projects/404/8cb27c210589867.Y3JvcCwxNTAwLDExNzMsMCwxNjM.png",
-    "shop": "Sweet House"
+    "shop": "Sweet House",
+     "category": "Desserts"
   },
   {
     "id": 32,
@@ -288,7 +323,8 @@
     "price": 110,
     "rating": 4.5,
     "image": "https://www.murarisweets.com/cdn/shop/files/MiniRasgulla.png?v=1709725924",
-    "shop": "Bengali Sweets"
+    "shop": "Bengali Sweets",
+     "category": "Desserts"
   },
   {
     "id": 33,
@@ -297,7 +333,8 @@
     "price": 190,
     "rating": 4.8,
     "image": "https://5.imimg.com/data5/SELLER/Default/2021/3/JS/WJ/GG/26405163/kaju-katli-500x500.jpg",
-    "shop": "Mithai Ghar"
+    "shop": "Mithai Ghar",
+     "category": "Desserts"
   },
   {
     "id": 34,
@@ -306,7 +343,8 @@
     "price": 60,
     "rating": 4.4,
     "image": "https://www.sharmispassions.com/wp-content/uploads/2023/08/sweet-lassi5.jpg",
-    "shop": "Punjabi Coolers"
+    "shop": "Punjabi Coolers",
+     "category": "Drinks"
   },
   {
     "id": 35,
@@ -315,7 +353,8 @@
     "price": 40,
     "rating": 4.6,
     "image": "https://www.seema.com/wp-content/uploads/2022/07/Masala-Chai.jpg",
-    "shop": "Chai Junction"
+    "shop": "Chai Junction",
+     "category": "Drinks"
   },
   {
     "id": 36,
@@ -324,7 +363,8 @@
     "price": 110,
     "rating": 4.7,
     "image": "https://foodandjourneys.net/wp-content/uploads/2023/05/Eiskaffee-FTR1.jpg",
-    "shop": "Café Blend"
+    "shop": "Café Blend",
+     "category": "Drinks"
   },
   {
     "id": 37,
@@ -333,7 +373,8 @@
     "price": 70,
     "rating": 4.5,
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEzDjxih-niFZsl-roRRFDcm7OT5ufa3_mIA&s",
-    "shop": "Juice Center"
+    "shop": "Juice Center",
+     "category": "Drinks"
   },
   {
     "id": 38,
@@ -342,7 +383,8 @@
     "price": 90,
     "rating": 4.6,
     "image": "https://static01.nyt.com/images/2025/02/13/multimedia/vv-triple-chocolate-brownies-bqvt/vv-triple-chocolate-brownies-bqvt-mediumSquareAt3X.jpg",
-    "shop": "Dessert Dash"
+    "shop": "Dessert Dash",
+     "category": "Desserts"
   },
   {
     "id": 39,
@@ -351,7 +393,9 @@
     "price": 80,
     "rating": 4.5,
     "image": "https://vaya.in/recipes/wp-content/uploads/2018/12/Vanilla-Ice-Cream.jpg",
-    "shop": "Frozen Fun"
+    "shop": "Frozen Fun",
+     "category": "Desserts"
+    
   },
   {
     "id": 40,
@@ -360,7 +404,8 @@
     "price": 110,
     "rating": 4.7,
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlz7ya9Wp-KQS-YNLjleBQjfiOefcfCTAYMXonotu6n1RgEXOUDbQy_Df3CZ9ykd3vQtU&usqp=CAU",
-    "shop": "Sweet Bites"
+    "shop": "Sweet Bites",
+     "category": "Desserts"
   },
   {
     "id": 41,
@@ -369,7 +414,8 @@
     "price": 120,
     "rating": 4.8,
     "image": "https://static.india.com/wp-content/uploads/2024/09/FALOODA-1.jpg?impolicy=Medium_Widthonly&w=350&h=263",
-    "shop": "Falooda Nation"
+    "shop": "Falooda Nation",
+     "category": "Drinks"
   },
   {
     "id": 42,
@@ -378,7 +424,8 @@
     "price": 80,
     "rating": 4.6,
     "image": "https://i.ytimg.com/vi/_wuJYFCN9P8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBnl6z-8AnLxW6ecBhIelEkxbfGaw",
-    "shop": "Shree Sweets"
+    "shop": "Shree Sweets",
+     "category": "Desserts"
   },
    {
     "id": 43,
@@ -387,7 +434,8 @@
     "price": 150,
     "rating": 4.6,
     "image": "https://jeanieandluluskitchen.com/wp-content/uploads/2018/05/DSC_0276.jpg",
-    "shop": "Nutra Hub"
+    "shop": "Nutra Hub",
+     "category": "Nuts"
   }
 ]
 

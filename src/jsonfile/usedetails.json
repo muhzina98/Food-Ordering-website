@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav",
+    "email": "aarav@gmail.com.com",
+    "phone": "+91 9876543210",
+    "address": "123 MG Road, Kochi, Kerala",
+    "password": "Aarav@123"
+  },
+  {
+    "id": 2,
+    "name": "Saanvi",
+    "email": "saanvi@gmail.com",
+    "phone": "+91 9123456780",
+    "address": "45 Residency Road, Trivandrum, Kerala",
+    "password": "Saanvi@456"
+  },
+  {
+    "id": 3,
+    "name": "Rahul",
+    "email": "rahul@gmail.com",
+    "phone": "+91 9988776655",
+    "address": "12 Park Street, Calicut, Kerala",
+    "password": "Rahul@789"
+  },
+  {
+    "id": 4,
+    "name": "Isha",
+    "email": "isha@gmail.com",
+    "phone": "+91 9654321987",
+    "address": "9 Jubilee Hills, Thrissur, Kerala",
+    "password": "isha@321"
+  },
+  {
+    "id": 5,
+    "name": "Karan",
+    "email": "karan@gmail.com",
+    "phone": "+91 9876512345",
+    "address": "88 Civil Line, Palakkad, Kerala",
+    "password": "karan@987"
+  },
+  {
+    "id": 6,
+    "name": "Nisha",
+    "email": "nisha@gmail.com",
+    "phone": "+91 9944556611",
+    "address": "56 Anna Nagar, Kannur, Kerala",
+    "password": "nisha@654"
+  },
+  {
+    "id": 7,
+    "name": "Manav",
+    "email": "manav@gmail.com",
+    "phone": "+91 9001122334",
+    "address": "89 West Fort, Kollam, Kerala",
+    "password": "Manav@112"
+  },
+  {
+    "id": 8,
+    "name": "Pooja",
+    "email": "pooja@gmail.com",
+    "phone": "+91 8887766554",
+    "address": "22 East Nada, Guruvayur, Kerala",
+    "password": "Pooja@456"
+  },
+  {
+    "id": 9,
+    "name": "Vikram",
+    "email": "vikram@gmail.com",
+    "phone": "+91 9778899001",
+    "address": "3 Main Street, Alappuzha, Kerala",
+    "password": "Vikram@999"
+  },
+  {
+    "id": 10,
+    "name": "Riya",
+    "email": "riya@gmail.com",
+    "phone": "+91 9004433221",
+    "address": "71 Town Hall Road, Kottayam, Kerala",
+    "password": "Riya@333"
+  },
+  {
+    "id": 11,
+    "name": "Aditya",
+    "email": "aditya@gmail.com",
+    "phone": "+91 9012345678",
+    "address": "40 Marine Drive, Kochi, Kerala",
+    "password": "Aditya@876"
+  },
+  {
+    "id": 12,
+    "name": "Tanya",
+    "email": "tanya@gmail.com",
+    "phone": "+91 9023456789",
+    "address": "55 Vellayambalam, Trivandrum, Kerala",
+    "password": "Tanya@222"
+  },
+  {
+    "id": 13,
+    "name": "Aman",
+    "email": "aman@gmail.com",
+    "phone": "+91 9034567890",
+    "address": "13 Salt Lake, Kozhikode, Kerala",
+    "password": "Aman@456"
+  },
+  {
+    "id": 14,
+    "name": "Neha",
+    "email": "neha@gmail.com",
+    "phone": "+91 9045678901",
+    "address": "90 Janpath, Malappuram, Kerala",
+    "password": "Neha@123"
+  },
+  {
+    "id": 15,
+    "name": "Rohit",
+    "email": "rohit@gmail.com",
+    "phone": "+91 9056789012",
+    "address": "33 Sector 14, Pathanamthitta, Kerala",
+    "password": "Rohit@789"
+  },
+  {
+    "id": 16,
+    "name": "Sneha",
+    "email": "sneha@gmail.com",
+    "phone": "+91 9067890123",
+    "address": "18 Jayanagar, Kasaragod, Kerala",
+    "password": "Sneha@111"
+  },
+  {
+    "id": 17,
+    "name": "Rakesh",
+    "email": "rakesh@gmail.com",
+    "phone": "+91 9078901234",
+    "address": "66 GT Road, Idukki, Kerala",
+    "password": "Rakesh@654"
+  },
+  {
+    "id": 18,
+    "name": "Meera",
+    "email": "meera@gmail.com",
+    "phone": "+91 9089012345",
+    "address": "44 MG Road, Wayanad, Kerala",
+    "password": "Meera@123"
+  },
+  {
+    "id": 19,
+    "name": "Abhishek",
+    "email": "abhishek@gmail.com",
+    "phone": "+91 9090123456",
+    "address": "7 ISBT Road, Ernakulam, Kerala",
+    "password": "Abhishek@234"
+  },
+  {
+    "id": 20,
+    "name": "Divya ",
+    "email": "divya@gmail.com",
+    "phone": "+91 9101234567",
+    "address": "99 Sadar Bazar, Perinthalmanna, Kerala",
+    "password": "Divya@987"
+  }
+]
