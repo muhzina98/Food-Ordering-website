@@ -18,7 +18,7 @@ import OrderPage from './Pages/OrderPage'
 import OrderSummary from './Pages/OrderSummary'
 import ManageUser from './Pages/ManageUser'
 import ManageDishes from './Pages/Managedishes'
-import ManageOrders from './Pages/ManageOrder'
+
 import AboutPage from './Pages/AboutPage'
 
 
