@@ -9,7 +9,7 @@ import DishesPage from './Pages/DishesPage'
 import SignupPage from './Pages/SignUpPage'
 
 import ProductDetails from './Pages/ProductDetails'
-import AdminDashboard from '.Pages/AdminDashboard'
+import AdminDashboard from '.Pages/AdminDashboard';
 import UserDashboard from './Pages/UserDashboard'
 import { CartPage } from './Pages/CartPage'
 
