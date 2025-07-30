@@ -8,7 +8,7 @@ import LoginPage from './Pages/LoginPage'
 import DishesPage from './Pages/DishesPage'
 import SignupPage from './Pages/SignUpPage'
 
-import ProductDetails from './Pages/productDetails'
+import ProductDetails from './Pages/ProductDetails'
 import AdminDashboard from './Pages/AdminDashBoard'
 import UserDashboard from './Pages/UserDashboard'
 import { CartPage } from './Pages/CartPage'
