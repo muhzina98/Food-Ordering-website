@@ -9,7 +9,7 @@ import DishesPage from './Pages/DishesPage'
 import SignupPage from './Pages/SignUpPage'
 
 import ProductDetails from './Pages/ProductDetails'
-import AdminDashboard from './Pages/AdminDashBoard'
+import AdminDashboard from '.Pages/AdminDashboard'
 import UserDashboard from './Pages/UserDashboard'
 import { CartPage } from './Pages/CartPage'
 
@@ -39,7 +39,7 @@ function App() {
           <Route path='login' element={<LoginPage />} />
           <Route path='signup' element={<SignupPage />} />
           <Route path='productDetails/:id' element={<ProductDetails />} />
-          <Route path="admin-dashboard" element={<AdminDashboard />}>
+          <Route path="admin-dashboard" element={<AdminDashboard/>}>
        <Route path="users" element={<ManageUser />} />
         <Route path="dishes" element={<ManageDishes />} />
          {/* <Route path="orders" element={<ManageOrders />} /> */}
