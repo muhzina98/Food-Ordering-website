@@ -20,7 +20,8 @@ import ManageUser from './Pages/ManageUser'
 import ManageDishes from './Pages/Managedishes'
 
 import AboutPage from './Pages/AboutPage'
-import { AdminDashboard } from './Pages/AdminDashBoard'
+import { AdminDashBoard } from './Pages/AdminDashBoard'
+
 
 
 
@@ -41,7 +42,7 @@ function App() {
           <Route path='login' element={<LoginPage />} />
           <Route path='signup' element={<SignupPage />} />
           <Route path='productDetails/:id' element={<ProductDetails />} />
-          <Route path="admin-dashboard" element={<AdminDashboard />}>
+          <Route path="admin-dashboard" element={<AdminDashBoard />}>
             <Route path="users" element={<ManageUser />} />
             <Route path="dishes" element={<ManageDishes />} />
             {/* <Route path="orders" element={<ManageOrders />} /> */}
