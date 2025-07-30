@@ -9,7 +9,7 @@ import DishesPage from './Pages/DishesPage'
 import SignupPage from './Pages/SignUpPage'
 
 import ProductDetails from './Pages/ProductDetails'
-import AdminDashboard from '.Pages/AdminDashboard';
+
 import UserDashboard from './Pages/UserDashboard'
 import { CartPage } from './Pages/CartPage'
 
@@ -20,6 +20,7 @@ import ManageUser from './Pages/ManageUser'
 import ManageDishes from './Pages/Managedishes'
 
 import AboutPage from './Pages/AboutPage'
+import { AdminDashBoard } from './Pages/AdminDashBoard'
 
 
 
@@ -33,27 +34,27 @@ function App() {
       <Routes>
         <Route path="/" element={<PublicLayout />}>
           <Route path='/' element={<HomePage />} />
-          <Route path="contact" element={<ContactPage />} /> 
-          <Route path="about" element={<AboutPage />} /> 
+          <Route path="contact" element={<ContactPage />} />
+          <Route path="about" element={<AboutPage />} />
           <Route path="/menu" element={<DishesPage />} />
           <Route path='login' element={<LoginPage />} />
           <Route path='signup' element={<SignupPage />} />
           <Route path='productDetails/:id' element={<ProductDetails />} />
-          <Route path="admin-dashboard" element={<AdminDashboard/>}>
-       <Route path="users" element={<ManageUser />} />
-        <Route path="dishes" element={<ManageDishes />} />
-         {/* <Route path="orders" element={<ManageOrders />} /> */}
-      </Route>
+          <Route path="admin-dashboard" element={<AdminDashBoard />}>
+            <Route path="users" element={<ManageUser />} />
+            <Route path="dishes" element={<ManageDishes />} />
+            {/* <Route path="orders" element={<ManageOrders />} /> */}
+          </Route>
 
-         
+
         </Route>
 
         <Route path="/user-dashboard" element={<ProtectedLayout />}>
           <Route index element={<UserDashboard />} />
           <Route path="cart" element={<CartPage />} />
-           <Route path='menu' element={<DishesPage />} />
+          <Route path='menu' element={<DishesPage />} />
           <Route path="order" element={<OrderPage />} />
-           <Route path="order-summary" element={<OrderSummary />} />
+          <Route path="order-summary" element={<OrderSummary />} />
         </Route>
 
 
