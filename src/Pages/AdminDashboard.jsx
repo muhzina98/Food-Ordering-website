@@ -1,7 +1,7 @@
 import React from 'react'
 import { NavLink, Outlet, useNavigate } from 'react-router-dom';
 
-export const AdminDashBoard = () => {
+ const AdminDashBoard = () => {
  
   const navigate = useNavigate();
 
@@ -65,5 +65,5 @@ export const AdminDashBoard = () => {
     </div>
   );
 };
-
+export default AdminDashBoard;
 

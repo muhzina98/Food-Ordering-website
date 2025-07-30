@@ -20,7 +20,7 @@ import ManageUser from './Pages/ManageUser'
 import ManageDishes from './Pages/Managedishes'
 
 import AboutPage from './Pages/AboutPage'
-import { AdminDashBoard } from './Pages/AdminDashBoard'
+import AdminDashBoard from './Pages/AdminDashBoard'
 
 
 
